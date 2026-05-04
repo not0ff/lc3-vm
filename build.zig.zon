@@ -1,0 +1,7 @@
+.{
+    .name = .lc3,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.16.0",
+    .paths = .{""},
+    .fingerprint = 0x4f8cb224b79e7811,
+}
