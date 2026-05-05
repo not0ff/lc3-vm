@@ -14,6 +14,9 @@ Build with Zig 0.16.0
 $ zig build -Drelease=true
 ```
 
+## How to get .obj files
+You can create "image" files using *lc3as* assembler found in [here](https://github.com/haplesshero13/lc3tools). There is also a c compiler available called [lcc-lc3](https://github.com/haplesshero13/lcc-lc3) though I couldn't get it to build on my system.
+
 ## License
 Licensed under GPLv3
 
